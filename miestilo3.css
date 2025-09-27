@@ -40,7 +40,7 @@ translateZ(100px);
 }
 #imagen6{
     background-image: 
-url(tarjeta/imagen1.jpg);
+url(imagen1.jpg);
     background-size: cover;
     background-position: center;
     animation-delay: -1s;
@@ -50,7 +50,7 @@ url(tarjeta/imagen1.jpg);
 }
 #imagen2{
     background-image: 
-url(tarjeta/imagen2.jpg);
+url(imagen2.jpg);
     background-size: cover;
     background-position: center;
     animation-delay: -3s;
@@ -61,7 +61,7 @@ url(tarjeta/imagen2.jpg);
 
 #imagen3{
     background-image: 
-url(tarjeta/imagen3.jpg);
+url(imagen3.jpg);
     background-size: cover;
     background-position: center;
     animation-delay: -5s;
@@ -72,7 +72,7 @@ url(tarjeta/imagen3.jpg);
 
 #imagen4{
     background-image: 
-url(tarjeta/imagen4.jpg);
+url(imagen4.jpg);
     background-size: cover;
     background-position: center;
     animation-delay: -7s;
@@ -83,7 +83,7 @@ url(tarjeta/imagen4.jpg);
 
 #imagen5{
     background-image: 
-url(tarjeta/imagen5.jpg);
+url(imagen5.jpg);
     background-size: cover;
     background-position: center;
     animation-delay: -9s;
@@ -98,3 +98,4 @@ url(tarjeta/imagen5.jpg);
     margin-top: 70px;
     background-color: black;
 }
+
